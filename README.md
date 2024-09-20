@@ -3,7 +3,7 @@
 This is my personal portfolio website created to showcase my skills, projects, and expertise as a web developer and designer. The portfolio highlights sections like "About Me," "Services," and "Projects," where I present my experience in web development, UI/UX design, and graphic design.
 
 ## Live Demo 🖇️
-You can view the live demo of my portfolio here: [Portfolio](https://jaffindurai29.github.io/Portfolio.github.io/)
+You can view the live demo of my portfolio here: [Portfolio]([https://jaffindurai29.github.io/Portfolio.github.io/](https://jaffindurai29.github.io/Portfolio/))
 
 ## Table of Contents
 - [Features](#features)
